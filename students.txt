@@ -1,0 +1,4 @@
+Nombre Edad Grado
+Hugo 26 Titulado_Profesional
+José 18 4° Medio
+Elias 13 8° Básico
